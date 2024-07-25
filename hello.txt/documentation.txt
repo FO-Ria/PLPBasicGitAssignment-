@@ -1,0 +1,13 @@
+I created a github account
+I signed into the account
+All my processes was done in gitbash
+First, i created a repo on the github website,
+I created a folder from Gitbash, initialised using gitinit
+and then created another folder hello.txt
+I opened vscode with code.
+created a new text file, hello.txt
+Followed the instructions giving
+Git add 
+Git commit
+Git push -u origin main
+and viola.
